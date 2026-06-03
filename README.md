@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi, I'm Alessandro. I built a project that is based off of turn-based RPG combat. "If you don't take risks, you can't create a future."
 
 <!--
 **OrangeMan012/OrangeMan012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
